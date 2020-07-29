@@ -1,0 +1,13 @@
+.b_border{
+	width: 100px;
+	height: 100px;
+	background-color: #eee;
+	margin: 10px 5px;
+}
+.b_overflow{
+	width: 200px;
+	height: 200px;
+}
+.v_alignment{
+	height: 200px;
+}
